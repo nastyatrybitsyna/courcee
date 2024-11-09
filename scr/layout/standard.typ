@@ -56,7 +56,6 @@
 
   show figure.caption.where(kind: raw): set align(left)
 
-  // show raw: set text(font: "Fira Mono")
   show: codly-init.with()
   codly(
     zebra-color: white,
